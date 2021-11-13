@@ -1,2 +1,2 @@
 # Diplo_Eco
-Practico integrados de la Diplomatura en Ciencia de Datos Aplicada
+Practico integrador de la Diplomatura en Ciencia de Datos Aplicada
